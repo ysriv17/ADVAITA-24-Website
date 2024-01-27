@@ -141,6 +141,7 @@
     transform: translateY(-0.4rem);
     background: #B53FA1;
     transition: .5s;
+    padding-bottom: 45px:
 }
 
 .sliderCard:hover .sliderTextLine {
